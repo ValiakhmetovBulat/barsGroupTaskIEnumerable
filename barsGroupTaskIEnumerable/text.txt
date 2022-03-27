@@ -1,0 +1,9 @@
+[Info]:[String]:Hello!
+[Error]:[String]:Division.Attempted to divide by zero.
+[Warning]:[String]:Warning!
+[Info]:[String]:Hello!
+[Error]:[String]:Division.Attempted to divide by zero.
+[Warning]:[String]:Warning!
+[Info]:[String]:Hello!
+[Error]:[String]:Division.Attempted to divide by zero.
+[Warning]:[String]:Warning!
